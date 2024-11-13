@@ -78,4 +78,19 @@ body {
     h2 {
         color: #5dea26;
     }
+    .morning {
+        background-color: lightyellow;
+        color: darkblue;
+    }
+    
+    .afternoon {
+        background-color: lightblue;
+        color: darkgreen;
+    }
+    
+    .evening {
+        background-color: darkblue;
+        color: lightyellow;
+    }
+    
 }
